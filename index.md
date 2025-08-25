@@ -1,6 +1,6 @@
 # Farsiana Tarique
 
-(grad photo.jpg)
+![Profile Photo](grad photo.jpg)
 
 Hi! I'm Farsiana, a Computer Science student at **Macaulay Honors College @ Queens College (Class of 2026)**.  
 I’m passionate about **software engineering, data, AI, and financial technology**.  
